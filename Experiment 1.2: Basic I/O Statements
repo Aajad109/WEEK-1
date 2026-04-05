@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main() {
+    printf("25331A05E6\n)";
+    char name[100];
+    scanf("%s", name);
+    printf("Azad %s\n", name);
+    return 0;
+}
